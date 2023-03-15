@@ -1,0 +1,2 @@
+ssam = "sorry"
+print(ssam)
