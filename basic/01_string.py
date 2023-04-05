@@ -41,3 +41,7 @@ print(f"역시! {name[3:]} {call[random.randint(0, 4)]}!")
 
 
 
+
+
+
+
